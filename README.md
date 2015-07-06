@@ -1,2 +1,2 @@
 # Curso-Git
-Aprendendo Git
+Aprendendo Git às 16h
